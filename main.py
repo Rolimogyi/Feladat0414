@@ -1,2 +1,3 @@
 print("hello world")
-print("feature A verzio")
+print("feature A + B verzio")
+
