@@ -1,2 +1,2 @@
 print("hello world")
-print("ez az elso verzio")
+print("feature A verzio")
